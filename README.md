@@ -1,2 +1,2 @@
 # Composition-Mondrimayankan
-A composition inspired from Mondrian and using different shades of colour
+A composition inspired from Mondrian and with different shades of colour using CSS Grid
